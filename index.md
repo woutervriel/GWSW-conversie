@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+## Welkom
 
-You can use the [editor on GitHub](https://github.com/woutervriel/GWSW-conversie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Behoefte aan een dataset die conform het [GWSW](http://data.gwsw.nl/) is opgebouwd?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen en gemeenten bewezen.
 
-### Markdown
+Ontworpen en gebouwd door __Wouter van Riel__ en __Marco van Bijnen__
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Hoe werkt het?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
