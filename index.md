@@ -1,6 +1,6 @@
 ## Welkom
 
-Behoefte aan een dataset die conform het [GWSW](http://data.gwsw.nl/) is opgebouwd?
+Behoefte aan een dataset die conform het [GWSW](http://data.gwsw.nl/){:target="_blank" rel="noopener"} is opgebouwd?
 
 Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen en gemeenten bewezen.
 
@@ -9,15 +9,16 @@ Ontworpen en gebouwd door __Wouter van Riel__ en __Marco van Bijnen__
 
 ## Hoe werkt het?
 
+De conversietool is gebouwd met de gedachte om volledig 'beheerpakket-onafhankelijk' te werk te gaan. De meeste exportformaten uit beheerpakketten of GIS-achtige systemen kunnen worden ingelezen en geconverteerd.
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+1. Ontvangst data in 'geo-formaat' (shape, gml, geojson, etc.)
+2. Mapping: koppeling van parameters in de data aan het GWSW
+3. Conversie: omzetten van ruwe data in GWSW formaat (OROX / .ttl)
+4. Upload: geconverteerde dataset uploaden naar GWSW-server
+5. Publicatie: publicatie  van dataset op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waarmee dataset openbaar beschikbaar is
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Interesse?
 
-### Jekyll Themes
+Vragen of meer informatie nodig?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/woutervriel/GWSW-conversie/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Neem contact op met Wouter van Riel via [wouter.van.riel@infralytics.org](mailto:wouter.van.riel@infralytics.org) of Marco van Bijnen via [marco@mvbijnenadvies.nl](mailto:marco@mvbijnenadvies.nl)
