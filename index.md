@@ -6,7 +6,6 @@ Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen e
 
 Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infralytics.org){:target="_blank" rel="noopener"}) en __Marco van Bijnen__ ([Duopp B.V.](https://duopp.nl){:target="_blank" rel="noopener"})
 
-
 ## Hoe werkt het?
 <br>
 
