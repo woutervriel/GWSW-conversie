@@ -9,17 +9,27 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
 
 ## Hoe werkt het?
 
-Er wordt gewerkt met een export uit de gebruikte beheersoftware. Meestal is deze export in een geo-formaat, zoals shape, gml, geodatabase of geojson.
-
 ![conversieproces](figures/conversie_flow.png)
 
-De conversietool is gebouwd met de gedachte om volledig 'beheerpakket-onafhankelijk' te werk te gaan. 
+<br>
 
-1. Ontvangst data in 'geo-formaat' (shape, gml, geojson, etc.)
-2. Mapping: koppeling van parameters in de data aan het GWSW
-3. Conversie: omzetten van ruwe data in GWSW formaat (OROX / .ttl)
-4. Upload: geconverteerde dataset uploaden naar GWSW-server
-5. Publicatie: publicatie  van dataset op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waarmee dataset openbaar beschikbaar is
+1. Er wordt gewerkt met een export uit de gebruikte beheersoftware. Meestal is deze export in een geo-formaat, zoals shape, gml, geodatabase of geojson. 
+
+2. De parameters in de dataset worden gekoppeld aan GWSW-parameters. Dit proces heet 'mapping'.
+
+3. De conversietool zet de dataset om in het GWSW-formaat (OROX / .ttl)
+
+4. De geconverteerde dataset wordt geüpload op de GWSW-server
+
+5. Optioneel: de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor de dataset openbaar beschikbaar is
+
+## Voordelen
+De conversietool is gebouwd met de gedachte om volledig 'beheersoftware-onafhankelijk' te werk te gaan. Vanuit nagenoeg ieder geoformaat is een conversie mogeijk.
+
+De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volledige vrijheid om, mits gedefinieerd door het GWSW, parameters en waarden aan te passen en/of toe te voegen.
+
+Er is de mogelijkheid om de geconverteerde dataset in meer formaten op te slaan dan enkel in OROX / .ttl.
+
 
 ## Interesse?
 
