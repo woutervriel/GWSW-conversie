@@ -1,10 +1,10 @@
 ## Welkom
 
-Behoefte aan een dataset die conform het [GWSW](http://data.gwsw.nl/){:target="_blank" rel="noopener"} is opgebouwd?
+Behoefte aan een dataset die conform het [GWSW](https://data.gwsw.nl/){:target="_blank" rel="noopener"} is opgebouwd?
 
 Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen en gemeenten bewezen.
 
-Ontworpen en gebouwd door __Wouter van Riel__ en __Marco van Bijnen__
+Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infralytics.org/){:target="_blank" rel="noopener"}) en __Marco van Bijnen__ ([Duopp B.V.](https://data.gwsw.nl/){:target="_blank" rel="noopener"})
 
 
 ## Hoe werkt het?
