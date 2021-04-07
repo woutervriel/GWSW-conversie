@@ -8,6 +8,7 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
 
 
 ## Hoe werkt het?
+<br>
 
 ![conversieproces](figures/conversie_flow.png)
 
