@@ -2,7 +2,7 @@
 
 Behoefte aan een dataset die conform het [GWSW](https://data.gwsw.nl){:target="_blank" rel="noopener"} is opgebouwd?
 
-Behoefte aan het genereren van rekenbestanden met [HydX](https://www.riool.net/-/gwsw-hyd/){:target="_blank" rel="noopener"}?
+Behoefte aan het genereren van rekenbestanden met [HydX](https://www.riool.net/-/gwsw-hyd){:target="_blank" rel="noopener"}?
 
 Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen en gemeenten bewezen.
 
