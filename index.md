@@ -28,6 +28,7 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
    - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is (inclusief visualisatie van de nulmeting).
 
 ## Voordelen
+
 De conversietool is gebouwd met de gedachte om volledig 'beheersoftware-onafhankelijk' te werk te gaan. Vanuit ieder geo-formaat en/of spreadsheet is een conversie mogelijk.
 
 De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volledige vrijheid om, mits gedefinieerd door het GWSW, parameters en waarden aan te passen en/of toe te voegen
