@@ -1,8 +1,8 @@
 ## Welkom
 
-Behoefte aan een dataset die conform het [GWSW](https://data.gwsw.nl/){:target="_blank" rel="noopener"} is opgebouwd?
+Behoefte aan een dataset die conform het [GWSW](https://data.gwsw.nl){:target="_blank" rel="noopener"} is opgebouwd?
 
-Behoefte aan het genereren van rekenbestanden met HydX?
+Behoefte aan het genereren van rekenbestanden met [HydX](https://www.riool.net/-/gwsw-hyd/){:target="_blank" rel="noopener"}?
 
 Onze conversietool maakt dat mogelijk en heeft zich voor diverse waterschappen en gemeenten bewezen.
 
@@ -19,18 +19,18 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
 
 2. De parameters in de dataset worden gekoppeld aan GWSW-parameters. Dit proces heet 'mapping'.
 
-3. De conversietool zet de dataset om in het GWSW-formaat (OROX / .ttl)
+3. De conversietool zet de dataset om in het GWSW-formaat (OROX / .ttl).
 
-4. De geconverteerde dataset wordt geüpload op de GWSW-server
+4. De geconverteerde dataset wordt geüpload op de GWSW-server.
 
 5. Optioneel:
-   - de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor enkel de belangrijkste objecten (door het GWSW bepaald) openbaar beschikbaar zijn. 
-   - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is, inclusief visualisatie van de nulmeting
+   - de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor enkel de belangrijkste objecten (door het GWSW bepaald) openbaar beschikbaar zijn.
+   - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is (inclusief visualisatie van de nulmeting).
 
 ## Voordelen
 De conversietool is gebouwd met de gedachte om volledig 'beheersoftware-onafhankelijk' te werk te gaan. Vanuit ieder geo-formaat en/of spreadsheet is een conversie mogelijk.
 
-De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volledige vrijheid om, mits gedefinieerd door het GWSW, parameters en waarden aan te passen en/of toe te voegen.
+De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volledige vrijheid om, mits gedefinieerd door het GWSW, parameters en waarden aan te passen en/of toe te voegen
 
 Er is de mogelijkheid om de geconverteerde dataset in meer formaten op te slaan dan enkel in OROX / .ttl. Denk aan .xml of in .shp.
 
