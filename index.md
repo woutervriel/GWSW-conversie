@@ -24,8 +24,8 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
 4. De geconverteerde dataset wordt geüpload op de GWSW-server
 
 5. Optioneel:
-   - de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor de dataset openbaar beschikbaar is 
-   - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de dataset afgeschermd met een wachtwoord beschikbaar is
+   - de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor enkel de belangrijkste objecten (door het GWSW bepaald) openbaar beschikbaar zijn. 
+   - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is, inclusief visualisatie van de nulmeting
 
 ## Voordelen
 De conversietool is gebouwd met de gedachte om volledig 'beheersoftware-onafhankelijk' te werk te gaan. Vanuit ieder geo-formaat en/of spreadsheet is een conversie mogelijk.
