@@ -28,7 +28,7 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
    - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is (inclusief visualisatie van de nulmeting).
 
 
-![data_viewer](figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png)
+![data_viewer](figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png) ![data_viewer2](figures/Afbeelding%20dataviewer.png)
 
 ## Voordelen
 
@@ -37,6 +37,9 @@ De conversietool is gebouwd met de gedachte om volledig 'beheersoftware-onafhank
 De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volledige vrijheid om, mits gedefinieerd door het GWSW, parameters en waarden aan te passen en/of toe te voegen
 
 Er is de mogelijkheid om de geconverteerde dataset in meer formaten op te slaan dan enkel in OROX / .ttl. Denk aan .xml of in .shp.
+
+
+
 
 ## Interesse?
 
