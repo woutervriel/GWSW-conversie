@@ -27,6 +27,7 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
    - de geconverteerde dataset wordt gepubliceerd op [PDOK](https://www.pdok.nl/viewer/){:target="_blank" rel="noopener"}, waardoor enkel de belangrijkste objecten (door het GWSW bepaald) openbaar beschikbaar zijn.
    - de geconverteerde dataset wordt gepubliceerd in een data-viewer, waarin de volledige dataset, afgeschermd met een login en wachtwoord, beschikbaar is (inclusief visualisatie van de nulmeting).
 
+<br>
 
 ![data_viewer](figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png) ![data_viewer2](figures/Afbeelding%20dataviewer.png)
 
@@ -38,7 +39,7 @@ De mapping is volledig zelf aan te passen naar wens. We hebben hierdoor de volle
 
 Er is de mogelijkheid om de geconverteerde dataset in meer formaten op te slaan dan enkel in OROX / .ttl. Denk aan .xml of in .shp.
 
-
+De geconverteerde dataset kan als onderlegger worden gebruikt in diverse applicaties, zoals onderhoudsmanagementsystemen, telemetriesystemen en GIS-systemen.
 
 
 ## Interesse?
