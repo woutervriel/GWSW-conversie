@@ -29,7 +29,14 @@ Ontworpen en gebouwd door __Wouter van Riel__ ([infralytics](https://www.infraly
 
 <br>
 
-![data_viewer](figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png) ![data_viewer2](figures/Afbeelding%20dataviewer.png)
+| ![data_viewer](figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png)  | ![data_viewer2](figures/Afbeelding%20dataviewer.png) |
+| ------------- | ------------- |
+
+
+
+[comment]: <> (![data_viewer]&#40;figures/Afbeelding%20dataviewer%20oppervlakkenkaart.png&#41; ![data_viewer2]&#40;figures/Afbeelding%20dataviewer.png&#41;)
+
+
 
 ## Voordelen
 
